@@ -31,6 +31,9 @@ namespace ATEAMS {
 	/** Type alias for a SparseRREF ring type. */
 	typedef SparseRREF::field_t AbstractRing;
 
+	typedef int64_t DUMMY;
+	typedef int64_t DUMMY2;
+
 	/**
 	 * @class Ring
 	 * @brief Generic algebraic ring.
