@@ -32,7 +32,6 @@ namespace ATEAMS {
 	typedef SparseRREF::field_t AbstractRing;
 
 	typedef int64_t DUMMY;
-	typedef int64_t DUMMY2;
 
 	/**
 	 * @class Ring
